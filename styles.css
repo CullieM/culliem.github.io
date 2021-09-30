@@ -1,0 +1,14 @@
+.centre{
+    margin: auto; 
+    
+    max-width: 650px;
+}
+.delimiter{
+    height: 25%;
+}
+.image{
+    width: 200px;
+}
+a{
+    text-decoration: none;
+}
