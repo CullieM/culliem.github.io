@@ -9,6 +9,12 @@
 .image{
     width: 200px;
     height: 200px;
+    vertical-align: middle;
+}
+.linkedin{
+    width: 160px;
+    height: 160px;
+    vertical-align: middle;
 }
 a{
     text-decoration: none;
