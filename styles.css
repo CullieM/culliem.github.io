@@ -1,7 +1,7 @@
 .centre{
     margin: auto; 
     
-    max-width: 650px;
+    max-width: 580px;
 }
 .delimiter{
     height: 25%;
@@ -18,4 +18,8 @@
 }
 a{
     text-decoration: none;
+}
+body{
+    background-color: black;
+    min-width: 580px;
 }
